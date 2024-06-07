@@ -7,10 +7,13 @@
 <div align = "center">
     <h1>Statistics</h1>
     <a href = "https://github.com/RNXFreeze/">
-        <img src="https://github-profile-trophy.vercel.app/?username=RNXFreeze&column=-1&theme=dracula&rank=-C,-B,-?" />
+        <img src="https://github-profile-trophy.vercel.app/?username=RNXFreeze&column=-1&theme=tokyonight&rank=-C,-B,-?" />
         <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=RNXFreeze&hide=issues&count_private=true&show_icons=true&theme=dracula" height=200/>
+        <img src="https://github-readme-stats.vercel.app/api?username=RNXFreeze&hide=issues&count_private=true&show_icons=true&theme=tokyonight" height=200/>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNXFreeze&layout=compact&theme=dracula&langs_count=3" width=300/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNXFreeze&layout=compact&theme=tokyonight&langs_count=3" width=300/>
     </a>
 </div>
+
+## Skills and Experience
+* 💻 Python , Haskell
