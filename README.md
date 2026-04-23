@@ -36,11 +36,11 @@ I'm a third-year undergraduate Informatics Engineering/Computer Science student 
 
 ### 🤝 Let's Connect
 <div align="center">
-  <a href="https://linkedin.com/in/mraihannazhimo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:m.raihannazhimoktana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mraihannazhimo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:m.raihannazhimoktana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </div>
 
 <p align="center">
   <br />
-  <i>"Be brave and smart, solve real-world problems!"</i>
+  <i>"Be brave and smart, let's solve real-world problems!"</i>
 </p>
