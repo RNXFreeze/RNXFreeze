@@ -26,14 +26,6 @@ I'm a third-year undergraduate Informatics Engineering/Computer Science student 
 
 ---
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RNXFreeze&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNXFreeze&layout=compact&theme=tokyonight&langs_count=6" height="180" alt="Top Langs" />
-</div>
-
----
-
 ### 🤝 Let's Connect
 <div align="center">
   <a href="https://linkedin.com/in/mraihannazhimo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
