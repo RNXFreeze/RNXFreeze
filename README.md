@@ -11,7 +11,7 @@
 ---
 
 ### 💫 About Me
-I'm a third-year undergraduate Informatics Engineering/Computer Science student at Institut Teknologi Bandung (ITB), developing expertise as a Full-Stack Software Engineer, Data Scientist, and AI/ML Engineer. I'm currently sharpening my skills across the full development lifecycle, from software engineering and data analysis to the implementation of machine learning models. With a strong interest in mathematics and algorithmic problem-solving, I aim to develop intelligent, end-to-end solutions that can drive meaningful innovation across technology, business, and educations. I'm open to collaboration and always excited to grow!
+I'm a third-year undergraduate Informatics Engineering/Computer Science student at Institut Teknologi Bandung (ITB), developing expertise as a Full-Stack Software Engineer, Data Scientist, and AI/ML Engineer. I'm currently sharpening my skills across the full development lifecycle, from software engineering and data science to the implementation of machine learning models. With a strong background and interest in mathematics and algorithmic problem-solving, I aim to develop intelligent, end-to-end solutions that can drive meaningful innovation across multiple domains. I'm also passionate about mathematics education through simplifying complex concepts and mentoring others in foundational and advanced mathematics. I'm open to collaboration and always excited to grow!
 
 ---
 
